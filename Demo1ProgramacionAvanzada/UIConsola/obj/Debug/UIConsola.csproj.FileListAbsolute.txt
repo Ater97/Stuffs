@@ -1,0 +1,16 @@
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\UIConsola.exe.config
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\UIConsola.exe
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\UIConsola.pdb
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\Estructuras.dll
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\Estructuras.pdb
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\obj\Debug\UIConsola.csprojResolveAssemblyReference.cache
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\obj\Debug\UIConsola.exe
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIConsola\obj\Debug\UIConsola.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\UIConsola.exe.config
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\obj\Debug\UIConsola.exe
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\obj\Debug\UIConsola.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\UIConsola.exe
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\UIConsola.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\Estructuras.dll
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\bin\Debug\Estructuras.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\UIConsola\obj\Debug\UIConsola.csprojResolveAssemblyReference.cache

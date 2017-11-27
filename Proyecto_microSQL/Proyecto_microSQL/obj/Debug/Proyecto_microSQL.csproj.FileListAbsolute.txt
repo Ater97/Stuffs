@@ -1,0 +1,11 @@
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.exe.config
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.exe
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.pdb
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\EstructurasDeDatos.dll
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Form1.resources
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Form2.resources
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Properties.Resources.resources
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.exe
+C:\Users\sebas\Desktop\P-EDI-master\P-EDI-master\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.pdb

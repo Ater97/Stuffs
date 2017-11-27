@@ -1,0 +1,151 @@
+﻿@model IEnumerable<Laboratory_2.Models.ProductModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="jumbotron">
+    <Center>
+        <font color="black">
+            <h2>Productos</h2>
+        </font>
+         <hr align="CENTER" size="3" width="600" color="black" noshade />
+    </Center>    
+
+    <div align="right">
+        <div class="alinear">
+            <div class="alinear">
+                @using (Html.BeginForm("UploadProduct", "Product", FormMethod.Get))
+            {
+                    <font color="black" size="3">
+                        <input type="submit" value="" class="upload" title="Subir Archivo" />
+                    </font>
+                }
+            </div>
+
+            <div class="alinear">
+                @using (Html.BeginForm("Create", "Product", FormMethod.Get))
+                {
+                    <font color="black" size="3">
+                        <input type="submit" value="" class="add" title="Agregar un producto" />
+                    </font>
+                }
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Busqueda de productos</h3>
+        </div>
+        <div class="panel-body">
+
+            @using (Html.BeginForm("Search", "Product", FormMethod.Post))
+            {
+                <font size="3" color="black">
+                    <p>
+                        <input type="text" name="text" placeholder="-Código del producto-">
+                        <input type="submit" value="Buscar" />
+                    </p>
+                </font>
+            }
+        </div>
+    </div>
+
+
+    <div align="center">
+        <font color="red">
+            <h4>@ViewBag.Error</h4>
+        </font>
+        <font color="#24AAFF">
+            @ViewBag.Error1
+        </font>
+        <p>
+            @ViewBag.Error2
+        </p>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <font color="black">
+        <div ALIGN="right">
+            <h4> @ViewBag.Message </h4>
+        </div>
+    </font>
+
+    <div class="container">
+        <font size="2" color="black">
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductDescription)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductPrize)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductCount)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductDescription)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductPrize)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductCount)
+                        </td>
+
+                        @if (item != null)
+                        {
+                            <td>
+
+                                <div class="alinear">
+                                    <div class="alinear">
+                                        @using (Html.BeginForm("Edit", "Product", new { id = item.ProductID }, FormMethod.Get))
+                                        {
+                                            <font color="black" size="3">
+                                                <input type="submit" value="" class="edit" title="Editar" />
+                                            </font>
+                                        }
+                                    </div>
+
+                                    <div class="alinear">
+                                        @using (Html.BeginForm("Details", "Product", new { id = item.ProductID }, FormMethod.Get))
+                                        {
+                                            <font color="black" size="3">
+                                                <input type="submit" value="" class="details" title="Detalles" />
+                                            </font>
+                                        }
+                                    </div>
+
+                                    <div class="alinear">
+                                        @using (Html.BeginForm("Delete", "Product", new { id = item.ProductID }, FormMethod.Get))
+                                        {
+                                            <input type="submit" value="" class="delete" title="Eliminar" />
+                                        }
+                                    </div>
+                                </div>
+                            </td>
+                        }
+                    </tr>
+                }
+
+            </table>
+        </font>
+    </div>
+</div>

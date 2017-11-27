@@ -1,0 +1,21 @@
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.exe.config
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.exe
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.pdb
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.csprojResolveAssemblyReference.cache
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.Form1.resources
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.Properties.Resources.resources
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.csproj.GenerateResource.Cache
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.exe
+c:\users\30203613\documents\visual studio 2013\Projects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.exe.config
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.exe
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.exe
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.Form1.resources
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.Properties.Resources.resources
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\L4_Ordenamiento\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.csproj.GenerateResource.Cache
+C:\Users\sebas\Google Drive\Proyects\L4_Ordenamiento\L4_Ordenamiento\bin\Debug\L4_Ordenamiento.exe.config
+C:\Users\sebas\Google Drive\Proyects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.exe
+C:\Users\sebas\Google Drive\Proyects\L4_Ordenamiento\L4_Ordenamiento\obj\Debug\L4_Ordenamiento.pdb

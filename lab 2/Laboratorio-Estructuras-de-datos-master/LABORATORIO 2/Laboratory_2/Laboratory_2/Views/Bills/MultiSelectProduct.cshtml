@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Select Product";
+ 
+}
+
+<h2>MultiSelectProduct</h2>
+
+@if (ViewBag.YouSelected != null)
+{
+
+    <div> You Selected:  @ViewBag.YouSelected</div>
+
+}
+
+@using (Html.BeginForm())
+{
+
+    <fieldset>
+        <div ALIGN="right">
+            <h4> @ViewBag.Message </h4>
+        </div>
+
+        <legend> Utilize la tecla "control" para seleccionar varios productos</legend>
+
+        <div class="editor-field">
+
+            @Html.ListBox("Products", ViewBag.Productslist as MultiSelectList )
+
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+
+    </fieldset>
+
+}
+
+<div>
+    @Html.ActionLink("Regresar a la lista", "Index")
+</div>
+<div>
+    @Html.ActionLink("Regresar a crear", "Create")
+</div>

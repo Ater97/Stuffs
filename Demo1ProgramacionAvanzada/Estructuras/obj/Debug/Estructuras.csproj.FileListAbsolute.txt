@@ -1,0 +1,10 @@
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\Estructuras\bin\Debug\Estructuras.dll
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\Estructuras\obj\Debug\Estructuras.csprojResolveAssemblyReference.cache
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\Estructuras\obj\Debug\Estructuras.dll
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\Estructuras\obj\Debug\Estructuras.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\Estructuras\bin\Debug\Estructuras.dll
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\Estructuras\obj\Debug\Estructuras.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\Estructuras\obj\Debug\Estructuras.dll
+C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\Demo1ProgramacionAvanzada\Demo1ProgramacionAvanzada\Estructuras\obj\Debug\Estructuras.pdb

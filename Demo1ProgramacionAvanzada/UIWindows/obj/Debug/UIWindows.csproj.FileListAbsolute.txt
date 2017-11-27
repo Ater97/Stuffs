@@ -1,0 +1,10 @@
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\bin\Debug\Estructuras.dll
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\bin\Debug\Estructuras.pdb
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\obj\Debug\UIWindows.Form1.resources
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\obj\Debug\UIWindows.Properties.Resources.resources
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.Cache
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\MoisesAntonio\Documents\Visual Studio 2013\Projects\Demo1ProgramacionAvanzada\UIWindows\obj\Debug\UIWindows.pdb

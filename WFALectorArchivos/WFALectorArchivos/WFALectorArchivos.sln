@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WFALectorArchivos", "WFALectorArchivos\WFALectorArchivos.vcxproj", "{3BE0F264-AEF5-4E8D-A444-08520A02583C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pa2016.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WFALectorArchivos\\WFALectorArchivos.vcxproj
+		SccProjectName1 = WFALectorArchivos
+		SccLocalPath1 = WFALectorArchivos
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE0F264-AEF5-4E8D-A444-08520A02583C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3BE0F264-AEF5-4E8D-A444-08520A02583C}.Debug|Win32.Build.0 = Debug|Win32
+		{3BE0F264-AEF5-4E8D-A444-08520A02583C}.Release|Win32.ActiveCfg = Release|Win32
+		{3BE0F264-AEF5-4E8D-A444-08520A02583C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

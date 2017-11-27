@@ -1,0 +1,9 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  WfaListasVisuales.cpp
+c:\users\sebas\google drive\u\ciclo ii\lab progra\wfalistasvisuales\wfalistasvisuales\Form1.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\sebas\google drive\u\ciclo ii\lab progra\wfalistasvisuales\wfalistasvisuales\figuras.h(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\sebas\google drive\u\ciclo ii\lab progra\wfalistasvisuales\wfalistasvisuales\figuras.h(32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  WfaListasVisuales.vcxproj -> C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\WfaListasVisuales\Debug\WfaListasVisuales.exe
+  WfaListasVisuales.vcxproj -> C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\WfaListasVisuales\Debug\WfaListasVisuales.pdb (Full PDB)

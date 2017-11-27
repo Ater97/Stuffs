@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  MetodosDeBusqueda.cpp
+MetodosDeBusqueda.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+MetodosDeBusqueda.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MetodosDeBusqueda.vcxproj -> C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\MetodosDeBusqueda\Debug\MetodosDeBusqueda.exe
+  MetodosDeBusqueda.vcxproj -> C:\Users\sebas\Google Drive\U\Ciclo II\Lab progra\MetodosDeBusqueda\Debug\MetodosDeBusqueda.pdb (Full PDB)
